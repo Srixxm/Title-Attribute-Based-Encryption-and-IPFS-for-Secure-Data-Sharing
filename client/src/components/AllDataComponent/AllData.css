@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet');
+
+.app {
+    max-width: 800px; 
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9; 
+    max-height: 1000px;
+    border: 1px solid #ddd;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    color: #89253e;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+  }
+  
+  .head {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    width: calc(25% - 20px); 
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .churn-status {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .pagination {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .page-button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ac0202;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .page-button.active {
+    background-color: #8e3e3e;
+  }
+  
+  .page-button:hover {
+    background-color: #3a6186;
+  }
+
+  ul {
+    list-style: none;
+  }
+  body {
+    background: #3a6186;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #89253e, #3a6186);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #89253e, #3a6186); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  }
+
+  Link, .name {
+    color: #89253e;
+  }
+
+ .card:hover {
+  background-color:rgb(246, 232, 232) ;
+ }

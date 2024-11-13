@@ -1,0 +1,101 @@
+CompanyName,Industry,ContractLength,MonthsSinceSignup,TotalTransactions,AvgTransactionValue,LastTransactionDate,ProductUsageFrequency,SupportTicketsOpened,SupportTicketResolutionTime,EmailOpenRate,WebinarAttendance,AccountManagerCalls,ChurnStatus
+Green Earth Inc.,Environmental Services,24,10,120,500,2022-07-15,Daily,5,2.5,0.8,2,8,0
+EcoCycle,Waste Management,18,7,80,600,2022-06-20,Weekly,10,3.2,0.7,1,6,1
+BioTech Solutions,Biotechnology,36,20,300,800,2022-01-01,Daily,0,1.8,0.9,4,12,0
+Renewable Energy Corp.,Renewable Energy,12,3,40,700,2022-04-15,Monthly,15,4.5,0.6,0,4,1
+Clean Tech Innovations,Clean Technology,24,12,150,550,2022-05-01,Daily,8,2.2,0.85,3,10,0
+Sustainable Living Inc.,Sustainable Living,18,9,100,650,2022-03-20,Weekly,12,3.5,0.75,2,7,1
+Green Energy Partners,Green Energy,36,25,400,850,2021-06-01,Daily,2,1.9,0.92,5,14,0
+Eco Friendly Products,Eco Friendly Products,24,11,180,580,2022-06-01,Daily,6,2.1,0.88,4,11,0
+Carbon Neutral Solutions,Carbon Neutral Solutions,18,8,120,620,2022-04-01,Weekly,11,3.8,0.78,1,5,1
+Environmental Consulting,Environmental Consulting,36,22,350,900,2021-09-01,Daily,3,1.7,0.95,6,16,0
+Green Building Solutions,Green Building Solutions,24,10,140,540,2022-05-15,Daily,7,2.4,0.82,3,9,0
+Sustainable Fashion Inc.,Sustainable Fashion,18,6,80,600,2022-02-01,Weekly,9,3.1,0.72,0,3,1
+Eco Friendly Construction,Eco Friendly Construction,36,28,450,880,2021-03-01,Daily,1,1.6,0.98,7,18,0
+Green Technology Solutions,Green Technology,24,13,160,560,2022-03-01,Daily,4,2,0.86,5,13,0
+Renewable Energy Systems,Renewable Energy Systems,18,5,60,640,2022-01-15,Monthly,14,4.2,0.65,0,2,1
+Clean Energy Technologies,Clean Energy Technologies,36,26,380,920,2021-08-01,Daily,5,1.8,0.94,8,19,0
+Green Infrastructure Inc.,Green Infrastructure,24,12,130,520,2022-04-15,Daily,9,2.5,0.79,2,8,1
+Eco Friendly Manufacturing,Eco Friendly Manufacturing,18,7,90,610,2022-02-20,Weekly,10,3.3,0.73,1,4,1
+Green Real Estate Solutions,Green Real Estate,36,29,460,900,2021-02-01,Daily,4,1.9,0.96,9,17,0
+Sustainable Agriculture Inc.,Sustainable Agriculture,24,14,150,580,2022-05-01,Daily,8,2.2,0.83,4,12,0
+Green Transportation Solutions,Green Transportation,18,8,100,620,2022-03-01,Weekly,13,3.6,0.76,0,5,1
+EcoCycle Inc.,EcoCycle,24,16,220,440,2022-09-01,Monthly,12,2.8,0.58,0,6,1
+Green Horizon Solutions,Green Horizon,36,31,480,840,2021-06-01,Daily,7,2.1,0.92,7,14,0
+Clean Tech Innovations,Clean Tech,18,9,120,540,2022-04-20,Weekly,15,3.9,0.71,1,3,1
+Sustainable Living Co.,Sustainable Living,24,18,280,480,2022-11-01,Monthly,11,3.1,0.67,0,8,1
+Green Energy Partners,Green Energy,36,35,520,920,2021-01-01,Daily,6,2.4,0.95,10,20,0
+Eco Friendly Products,Eco Friendly,18,10,140,560,2022-06-15,Weekly,14,4.5,0.74,0,4,1
+Green Building Solutions,Green Building,24,20,320,520,2022-12-01,Monthly,13,3.5,0.63,0,7,1
+Clean Water Technologies,Clean Water,36,33,560,960,2021-03-01,Daily,5,2.6,0.93,9,18,0
+Green Food Systems,Green Food,18,11,180,460,2022-07-20,Weekly,16,4.2,0.69,0,5,1
+Sustainable Fashion Co.,Sustainable Fashion,24,22,360,500,2022-10-01,Monthly,12,3.3,0.65,0,9,1
+Green Transportation Inc.,Green Transportation,18,12,160,580,2022-08-01,Weekly,14,4.8,0.72,0,3,1
+Eco Home Solutions,Eco Home,36,38,640,920,2021-04-01,Daily,4,2.3,0.96,11,21,0
+Green Healthcare Systems,Green Healthcare,18,13,200,540,2022-09-20,Weekly,15,4.9,0.75,0,4,1
+Clean Air Technologies,Clean Air,24,25,440,580,2022-12-15,Monthly,13,3.7,0.68,0,8,1
+Green Education Solutions,Green Education,18,14,220,480,2022-10-20,Weekly,14,4.6,0.76,0,3,1
+Eco Tourism Inc.,Eco Tourism,36,41,720,1000,2021-05-01,Daily,6,2.7,0.98,12,23,0
+Green Community Development,Green Community,18,15,280,520,2022-11-20,Weekly,15,5.1,0.73,0,5,1
+Clean Water Innovations,Clean Water,24,28,520,600,2022-12-01,Monthly,12,3.4,0.64,0,9,1
+Green Urban Planning,Green Urban,18,16,240,460,2022-09-01,Weekly,14,4.3,0.77,0,4,1
+Sustainable Agriculture Systems,Sustainable Agriculture,36,43,800,1040,2021-06-01,Daily,5,2.9,0.99,13,24,0
+Green Building Technologies,Green Building,18,17,300,520,2022-10-15,Weekly,13,4.7,0.7,0,5,1
+EcoCycle Solutions,EcoCycle,24,30,600,800,2022-11-15,Weekly,18,4.9,0.68,0,7,1
+Green Earth Inc.,Green Earth,18,12,200,400,2022-09-20,Weekly,16,5,0.78,0,3,1
+Sustainable Energy Systems,Sustainable Energy,36,45,900,1200,2021-07-01,Daily,8,3.1,0.97,14,25,0
+Clean Technology Solutions,Clean Technology,18,14,220,480,2022-10-01,Weekly,17,4.8,0.69,0,6,1
+Green Infrastructure Development,Green Infrastructure,24,32,700,1000,2022-12-15,Weekly,19,5.2,0.67,0,8,1
+Eco Friendly Products,Eco Friendly,18,13,240,560,2022-11-01,Weekly,18,4.5,0.79,0,4,1
+Green Urban Renewal,Green Urban,18,11,180,360,2022-08-20,Weekly,15,5.3,0.75,0,2,1
+Sustainable Transportation Systems,Sustainable Transportation,36,46,1000,1400,2021-08-01,Daily,7,3,0.96,15,26,0
+Green Building Materials,Green Building,18,16,260,580,2022-10-01,Weekly,16,4.4,0.72,0,5,1
+Clean Water Technologies,Clean Water,24,29,580,900,2022-12-01,Weekly,20,5.5,0.65,0,9,1
+Eco Tourism Solutions,Eco Tourism,18,10,160,320,2022-07-20,Weekly,14,5.1,0.76,0,1,1
+Green Community Development Inc.,Green Community,18,15,280,520,2022-11-20,Weekly,15,5,0.73,0,5,1
+Sustainable Agriculture Systems Inc.,Sustainable Agriculture,36,43,800,1040,2021-06-01,Daily,5,2.9,0.99,13,24,0
+Clean Technology Solutions Inc.,Clean Technology,18,14,220,480,2022-10-01,Weekly,17,4.8,0.69,0,6,1
+Green Infrastructure Development Inc.,Green Infrastructure,24,32,700,1000,2022-12-15,Weekly,19,5.2,0.67,0,8,1
+Eco Friendly Products Inc.,Eco Friendly,18,13,240,560,2022-11-01,Weekly,18,4.5,0.79,0,4,1
+Green Urban Renewal Inc.,Green Urban,18,11,180,360,2022-08-20,Weekly,15,5.3,0.75,0,2,1
+Sustainable Transportation Systems Inc.,Sustainable Transportation,36,46,1000,1400,2021-08-01,Daily,7,3,0.96,15,26,0
+Green Building Materials Inc.,Green Building,18,16,260,580,2022-10-01,Weekly,16,4.4,0.72,0,5,1
+Clean Water Technologies Inc.,Clean Water,24,29,580,900,2022-12-01,Weekly,20,5.5,0.65,0,9,1
+Eco Tourism Solutions Inc.,Eco Tourism,18,10,160,320,2022-07-20,Weekly,14,5.1,0.76,0,1,1
+New Horizon Inc.,Renewable Energy,36,48,1200,1800,2022-09-01,Weekly,10,4,0.85,0,7,1
+Green Planet Inc.,Sustainable Agriculture,18,14,280,600,2022-11-15,Monthly,17,4.7,0.71,0,3,1
+Eco City Solutions Inc.,Urban Planning,24,30,600,1000,2022-12-20,Weekly,18,5,0.68,0,8,1
+Sustainable Fashion Inc.,Sustainable Fashion,18,12,220,480,2022-10-20,Weekly,15,4.8,0.78,0,4,1
+Green Technology Inc.,Clean Tech,36,49,1400,2000,2022-08-01,Weekly,11,3.5,0.92,0,10,1
+Renewable Energy Systems Inc.,Renewable Energy,18,15,300,650,2022-12-01,Monthly,16,4.6,0.73,0,2,1
+Eco Friendly Living Inc.,Eco Friendly,24,31,700,1100,2022-11-20,Weekly,19,5.1,0.69,0,9,1
+Green Infrastructure Solutions Inc.,Green Infrastructure,18,13,240,520,2022-09-20,Weekly,18,4.4,0.76,0,5,1
+Sustainable Development Inc.,Sustainable Development,36,50,1600,2200,2022-07-01,Weekly,9,3.2,0.95,0,12,1
+Clean Energy Solutions Inc.,Clean Energy,18,16,320,680,2022-10-01,Monthly,17,4.9,0.74,0,3,1
+Green Building Solutions Inc.,Green Building,24,33,800,1200,2022-12-01,Weekly,20,5.4,0.66,0,11,1
+Eco Tourism Solutions Inc.,Eco Tourism,18,17,200,400,2022-11-01,Weekly,15,4.7,0.77,0,2,1
+Green Urban Planning Inc.,Urban Planning,18,14,260,580,2022-10-01,Monthly,16,4.5,0.72,0,4,1
+Sustainable Agriculture Inc.,Sustainable Agriculture,36,51,1800,2500,2022-06-01,Weekly,12,3.8,0.93,0,14,1
+Green Infrastructure Development Inc.,Green Infrastructure,18,19,360,720,2022-12-15,Weekly,19,5,0.7,0,8,1
+Renewable Energy Systems Inc.,Renewable Energy,24,34,900,1400,2022-11-01,Weekly,21,5.5,0.64,0,13,1
+Eco Friendly Products Inc.,Eco Friendly,18,18,280,600,2022-09-01,Monthly,17,4.6,0.75,0,5,1
+Green Urban Renewal Inc.,Green Urban,18,21,220,440,2022-08-01,Weekly,16,4.9,0.79,0,3,1
+Sustainable Fashion Inc.,Sustainable Fashion,24,35,1000,1600,2022-10-01,Weekly,20,5.2,0.67,0,10,1
+Green Technology Inc.,Clean Tech,18,20,320,680,2022-11-01,Monthly,18,4.7,0.74,0,4,1
+Renewable Energy Solutions Inc.,Renewable Energy,36,52,2000,2800,2022-05-01,Weekly,13,3.6,0.94,0,16,1
+Carbon Zero Inc.,Clean Tech,12,13,120,240,2023-05-01,Weekly,15,4.8,0.45,0,2,1
+EcoCycle Inc.,Waste Management,18,18,300,600,2023-04-01,Monthly,18,4.9,0.75,0,6,0
+Green Planet Inc.,Green Infrastructure,24,31,800,1600,2023-03-01,Weekly,22,5.1,0.69,0,11,0
+Sustainable Living Inc.,Sustainable Living,18,19,280,560,2023-02-01,Monthly,19,4.8,0.76,0,5,0
+Clean Energy Inc.,Clean Energy,36,54,2500,3200,2023-01-01,Weekly,16,3.7,0.95,0,17,0
+Green Building Inc.,Green Building,18,20,320,640,2023-06-01,Monthly,17,4.7,0.73,0,4,0
+Renewable Energy Inc.,Renewable Energy,24,33,900,1400,2023-07-01,Weekly,21,5.3,0.66,0,12,0
+Eco Friendly Products Inc.,Eco Friendly,18,22,220,440,2023-08-01,Monthly,16,4.8,0.78,0,3,0
+Green Urban Renewal Inc.,Green Urban,18,23,180,360,2023-09-01,Weekly,15,4.9,0.81,0,2,0
+Sustainable Fashion Inc.,Sustainable Fashion,24,36,1100,1700,2023-10-01,Weekly,20,5,0.68,0,9,0
+Green Technology Inc.,Clean Tech,18,21,300,600,2023-11-01,Monthly,18,4.6,0.75,0,5,0
+Renewable Energy Solutions Inc.,Renewable Energy,36,55,2200,2800,2023-12-01,Weekly,12,3.5,0.93,0,15,0
+Carbon Neutral Inc.,Clean Tech,12,14,140,280,2023-03-01,Monthly,14,4.7,0.42,0,1,1
+EcoCycle Solutions Inc.,Waste Management,18,19,320,640,2023-06-01,Weekly,18,4.8,0.76,0,6,0
+Green Planet Solutions Inc.,Green Infrastructure,24,32,800,1600,2023-07-01,Weekly,22,5.1,0.69,0,11,0
+Sustainable Living Solutions Inc.,Sustainable Living,18,20,280,560,2023-08-01,Monthly,19,4.8,0.76,0,5,0
